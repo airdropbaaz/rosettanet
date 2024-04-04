@@ -11,6 +11,6 @@
       "prettier"
     ],
     "rules" : {
-        "no-console": 2 // We dont want console log
+     "no-console": 2 // We dont want console log
     }
 }
